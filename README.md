@@ -85,12 +85,12 @@ nor (y6,a,b);
 xnor (y7,a,b);
 endmodule 
 ```
+### OUTPUT:
 ## Logic symbol & Truthtable
 ![](truthtable.png)
 
 ## RTL realization 
 
-## Output:
 ![RTL](s1.png)
 
 ## Result:
